@@ -35,4 +35,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}" media="none" id="highlight_theme_dark" />
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4B4FWKWSVM"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-4B4FWKWSVM');
+    </script>
     {% endif %}
