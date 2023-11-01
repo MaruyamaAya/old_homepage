@@ -20,9 +20,9 @@
     {
       "institution": "National University of Singapore, Singapore",
       "url": "https://www.nus.edu.sg/",
-      "area": "School of Computing,  Jan. 2023 - Present",
-      "studyType": "Ph.D. student",
-      "Date": "2023-01-07",
+      "area": "School of Computing",
+      "studyType": "Ph.D.",
+      "startDate": "2023-01-07",
       "score": "",
       "courses": [
       ]
@@ -31,8 +31,9 @@
       "institution": "National University of Singapore, Singapore",
       "url": "https://www.nus.edu.sg/",
       "area": "School of Computing",
-      "studyType": "Master of Computer Science, Aug. 2021 - Jan. 2023",
-      "Date": "2021-08-07",
+      "studyType": "Master of Computer Science",
+      "startDate": "2021-08-07",
+      "endDate": "2023-01-07",
       "score": "",
       "courses": [
       ]
@@ -40,9 +41,10 @@
     {
       "institution": "Peking University, Beijing, China",
       "url": "https://www.pku.edu.cn/",
-      "area": "Computer Science and Engineering, Sep. 2016 - Jul. 2020",
+      "area": "Computer Science and Engineering",
       "studyType": "B.S.",
-      "Date": "2016-09-01",
+      "startDate": "2016-09-01",
+        "endDate": "2020-07-01",
       "score": "",
       "courses": [
       ]
@@ -53,34 +55,55 @@
       "name": "Bytedance Inc.",
       "position": "Machine Learning Engineer",
       "url": "",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2020-08-15",
+      "endDate": "2021-07-01",
+      "summary": "Working on the AI contract review system at Lark department.",
       "highlights": [
-        "Relativity"
       ]
     }
   ],
   "volunteer": [],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
   ],
   "certificates": [],
-  "publications": [],
-  "skills": [],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "Pytorch"
+    },
+{
+      "name": "Tensorflow"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "LaTeX"
+    }
+  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Familiar"
     }
   ],
   "interests": [],

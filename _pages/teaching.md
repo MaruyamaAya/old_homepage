@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching (assistant) experience.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I will be the main teaching assistant for CS5242 Neural Networks and Deep Learning in 2024 Spring.
+I will upload my materials on this page.
