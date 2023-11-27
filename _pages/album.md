@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title: album
 permalink: /album
 nav: true
 nav_order: 6
-description: personal album of daily life
+description: A personal album of my daily life, including travels, food, cosplay, rhythm games and so on.
 ---
 
 <div class="row mt-3">
