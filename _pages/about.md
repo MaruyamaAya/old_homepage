@@ -6,7 +6,7 @@ subtitle: <font size=2><a href='https://www.comp.nus.edu.sg/'>School of Computin
 
 profile:
   align: right
-  image: photo.jpg
+  image: denver.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <font size=1>
