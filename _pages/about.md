@@ -29,7 +29,7 @@ My research interest is machine learning system and high performance computing. 
 in deep learning training, and I am currently digging into large model inference and MoE model training/inference. I am looking 
 forward to collaborations, so please feel free to reach out to me if you are interested in my research.
 
-In my spare time, I enjoy watching animes and playing rhythm games (especially maimai) and board games. I also play the piano and once played keyboard
+In my spare time, I enjoy watching anime, cosplay, playing rhythm games (especially maimai) and board games. I also play the piano and once played keyboard
 in an amateur band.
 
 Check out more about me on [Google Scholar](https://scholar.google.com/citations?user=UPFptUwAAAAJ&hl=en), [Github](https://github.com/MaruyamaAya),
