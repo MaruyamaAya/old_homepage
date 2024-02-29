@@ -21,15 +21,15 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am a first-year CS Ph.D. student at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
+Hi, I am a second-year CS Ph.D. student at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020.
 
 My research interest is machine learning system and high performance computing. I have been working on pipeline parallelism 
-in deep learning training, and I am currently digging into large model inference and MoE model training/inference. I am looking 
-forward to collaborations, so please feel free to reach out to me if you are interested in my research.
+in deep learning training, and I am currently digging into long-sequence training for LLMs. I am looking 
+forward to collaborations and research internship opportunities, so please feel free to reach out to me if you are interested in my research.
 
-In my spare time, I enjoy watching anime, cosplay, playing rhythm games (especially maimai) and board games. I also play the piano and once played keyboard
+In my spare time, I enjoy watching anime, playing rhythm games (especially maimai) and board games. I also play the piano and once played keyboard
 in an amateur band.
 
 Check out more about me on [Google Scholar](https://scholar.google.com/citations?user=UPFptUwAAAAJ&hl=en), [Github](https://github.com/MaruyamaAya),
