@@ -21,8 +21,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am a second-year CS Ph.D. student at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
+Hi, I am a second-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
+Currently I am also an intern at Microsoft Research Asia [System Group (Shanghai)](https://www.msra.cn/zh-cn/msr-asia-shanghai), supervised by [Dr. Zhenhua Han](https://hzhua.github.io/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020.
 
 My research interest is machine learning system and high performance computing. I have been working on pipeline parallelism 
