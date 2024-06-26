@@ -35,21 +35,6 @@ in an amateur band.
 Check out more about me on [Google Scholar](https://scholar.google.com/citations?user=UPFptUwAAAAJ&hl=en), [Github](https://github.com/MaruyamaAya), [linkedin](https://www.linkedin.com/in/ziming-liu-mlsys/), and [Twitter](https://twitter.com/lzm_mlsys)!
 
 
-# Education Experience
-<font size="3">
-- Ph.D., National University of Singapore, Computer Science, 2023.1 - current
-- Master's degree, National University of Singapore, Artificial Intelligence, 2021.8 - 2023.1
-- Bachelor's degree, Peking University, Computer Science and Technology, 2016.9 - 2020.7
-</font>
-
-# Industrial Experience
-<font size="3">
-- Research Intern, Microsoft Research Asia, 2024.5 - current
-- Research Intern, HPC-AI Tech, 2022.5 - 2022.12
-- Machine Learning Engineer, ByteDance, 2020.8 - 2021.7
-</font>
-
-
 
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 
