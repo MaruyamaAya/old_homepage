@@ -4,7 +4,7 @@ permalink: /blogs/
 title: blogs
 description: Technical Blogs
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 
 Work In Progress
