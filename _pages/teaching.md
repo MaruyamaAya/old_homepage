@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching (assistant) experience.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 CS5242: Deep Learning and Neural Networks (Spring 2024)
