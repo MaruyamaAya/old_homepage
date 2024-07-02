@@ -20,8 +20,7 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-nav: true
-nav_order: 1
+
 ---
 Hi, I am a second-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).

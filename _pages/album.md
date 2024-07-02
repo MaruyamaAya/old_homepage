@@ -3,7 +3,7 @@ layout: page
 title: album
 permalink: /album
 nav: true
-nav_order: 5
+nav_order: 4
 description: A personal album of my daily life, including travels, food, cosplay, rhythm games and so on.
 ---
 
