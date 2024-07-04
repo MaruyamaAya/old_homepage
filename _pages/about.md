@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <font size=2><a href='https://www.comp.nus.edu.sg/'>School of Computing, National University of Singapore</a></font>.
+subtitle: <font size=2><a href='https://www.comp.nus.edu.sg/'>School of Computing, National University of Singapore</a></font><br><font size=2><a href='https://eecs.pku.edu.cn/en/'>EECS, Peking University</a></font>
 
 profile:
   align: right
